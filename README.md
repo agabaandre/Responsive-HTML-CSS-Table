@@ -2,5 +2,5 @@
 
 <h3>Attention</h3>
 <p>Make sure your provide a label attribute to your <pre><code><td></td></code></pre> tags to enable lables in smaller screens
-	i.e <pre><code><td role="cell" label="First Name">James</td></code></pre>
+	i.e <code><td role="cell" label="First Name">James</td></code>
  </p>
